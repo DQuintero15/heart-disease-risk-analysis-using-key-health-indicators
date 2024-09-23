@@ -6,3 +6,6 @@ kaggle.json
 
 # Python
 __pycache__/
+
+# Data
+data/
