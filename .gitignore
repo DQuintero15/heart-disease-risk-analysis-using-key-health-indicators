@@ -1,0 +1,8 @@
+# Environment
+.venv/
+
+# Kaggle API
+kaggle.json
+
+# Python
+__pycache__/
