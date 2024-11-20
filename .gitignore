@@ -1,0 +1,19 @@
+# Environment
+.venv/
+
+# Kaggle API
+kaggle.json
+
+# Python
+__pycache__/
+
+# Data
+data/
+
+# Models
+features_names.pkl
+label_encoder.pkl
+model.pkl
+onehot_encoder.pkl
+ordinal_encoder.pkl
+scaler.pkl
